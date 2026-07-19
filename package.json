@@ -9,7 +9,7 @@
     "firebase": "4.8.0",
     "@types/node": "6.0.92",
     "angularfire2": "5.0.0-rc.5-next",
-    "@angular/core": "5.1.0",
+    "@angular/core": "11.0.5",
     "@angular/http": "5.1.0",
     "@angular/forms": "5.1.0",
     "@types/jasmine": "2.5.54",
